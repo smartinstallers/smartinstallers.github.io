@@ -1,0 +1,62 @@
+#header{
+  
+  padding: 20px;
+  font-size: 30px;
+  text-align:center;
+  background-image: url("finsolar.JPG")
+  
+  
+
+}
+body{
+	margin-top:0;
+	font-size: 30px;
+	color: aliceblue;
+	border-color: black;
+	background-image:url("american-public-power-association-513dBrMJ_5w-unsplash.jpg");
+	
+	
+}
+
+li{
+	display: inline;
+
+}
+.navbar li{
+	padding: 100px;
+	
+}
+.navbar{
+	background-color:#333;
+	padding: 15px;
+	text-align: center;
+	color: white;
+}
+.footer{
+	background-color: #333;
+	padding:15px;
+	color: white;
+	text-align: center;
+	margin-top:340px;
+}
+.form{
+	margin-left:500px;
+	margin-right:500px;
+	margin-top:100px;
+	text-align: center;
+	border:3px green solid;
+	background-color: grey;
+}
+input{
+	padding:2px;
+	margin: 20px;
+}
+input[type="submit"]{
+	background-color: blue;
+}
+label{
+	display: block;
+}
+a:hover{
+	color:red;
+}
